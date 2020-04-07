@@ -1,0 +1,5 @@
+https://towardsdatascience.com/multi-class-metrics-made-simple-part-ii-the-f1-score-ebe8b2c2ca1
+
+https://towardsdatascience.com/accuracy-precision-recall-or-f1-331fb37c5cb9
+
+https://datascience.stackexchange.com/questions/15989/micro-average-vs-macro-average-performance-in-a-multiclass-classification-settin
